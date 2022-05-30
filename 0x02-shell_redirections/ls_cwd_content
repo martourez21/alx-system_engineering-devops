@@ -1,1 +1,37 @@
-
+total 908
+drwxr-xr-x 2 root root   4096 May 30 07:29 .
+drwxr-xr-x 6 root root    121 May 29 20:16 ..
+-rwxr-xr-x 1 root root     32 May 29 20:28 0-hello_world
+-rwxr-xr-x 1 root root     56 May 30 04:58 100-empty_casks
+-rw-r--r-- 1 root root  12288 May 30 00:26 .100-empty_casks.swp
+-rwxr-xr-x 1 root root    107 May 30 05:12 101-gifs
+-rwxr-xr-x 1 root root     38 May 30 06:55 102-acrostic
+-rwxr-xr-x 1 root root    115 May 30 07:02 103-the_biggest_fan
+-rwxr-xr-x 1 root root     48 May 29 22:30 10-no_more_js
+-rwxr-xr-x 1 root root     47 May 29 22:35 11-directories
+-rwxr-xr-x 1 root root     25 May 29 22:41 12-newest_files
+-rwxr-xr-x 1 root root     27 May 29 22:54 13-unique
+-rwxr-xr-x 1 root root     42 May 29 22:59 14-findthatword
+-rwxr-xr-x 1 root root     38 May 29 23:08 15-countthatword
+-rwxr-xr-x 1 root root     44 May 29 23:14 16-whatsnext
+-rwxr-xr-x 1 root root     36 May 29 23:27 17-hidethisword
+-rwxr-xr-x 1 root root     51 May 29 23:33 18-letteronly
+-rwxr-xr-x 1 root root     29 May 29 23:38 19-AZ
+-rwxr-xr-x 1 root root     28 May 29 20:46 1-confused_smiley
+-rwxr-xr-x 1 root root     25 May 29 23:54 20-hiago
+-rwxr-xr-x 1 root root     16 May 30 00:02 21-reverse
+-rwxr-xr-x 1 root root     46 May 30 00:08 22-users_and_homes
+-rwxr-xr-x 1 root root     28 May 29 20:51 2-hellofile
+-rwxr-xr-x 1 root root     39 May 29 21:10 3-twofiles
+-rwxr-xr-x 1 root root     35 May 29 21:17 4-lastlines
+-rwxr-xr-x 1 root root     35 May 29 21:22 5-firstlines
+-rwxr-xr-x 1 root root     36 May 29 21:30 6-third_line
+-rwxr-xr-x 1 root root     89 May 29 21:56 7-file
+-rwxr-xr-x 1 root root     36 May 30 07:29 8-cwd_state
+-rwxr-xr-x 1 root root     40 May 29 22:18 9-duplicate_last_line
+-rw-r--r-- 1 root root     12 May 29 21:56 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     50 May 29 22:22 iacta
+-rw-r--r-- 1 root root      0 May 30 07:29 ls_cwd_content
+-rw-r--r-- 1 root root 782913 Mar  8 11:08 nasa_19950801.tsv
+-rw-r--r-- 1 root root      0 May 30 05:09 .ne
+-rw-r--r-- 1 root root   4636 May 30 07:01 README.md
