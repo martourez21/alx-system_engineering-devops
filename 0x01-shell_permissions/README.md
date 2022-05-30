@@ -1,37 +1,36 @@
-Exercise 0: su betty Script that changes your user ID to betty.
+Exercise 0: Create a script that switches the current user to the user betty.
 
-Exercise 1: id -un Print the effective user ID of current user. Other alternative is whoami
+Exercise 1: Write a script that prints the effective username of the current user.
 
-Exercise 2: id -Gn Prints all the groups the current user is part of.
+Exercise 2: Write a script that prints all the groups the current user is part of.
 
-Exercise 3: chown betty hello Changes the owner of the file hello to the user betty
+Exercise 3: Write a script that changes the owner of the file hello to the user betty.
 
-Exercise 4: touch hello Create an empty file called hello
+Exercise 4: Write a script that creates an empty file called hello.
 
-Exercise 5: chmod u+x hello Add execute permission to the owner of the file hello
+Exercise 5: Write a script that adds execute permission to the owner of the file hello.
 
-Exercise 6: chmod ug+x,o+r hello Add execute permission to user and group owner, and read permission to others for file hello
+Exercise 6: Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 
-Exercise 7: chmod ugo+x hello Add execution permission to all for file hello.
+Exercise 7: Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 
-Exercise 8: chmod 007 hello Set permissions for file hello so owner and group don't have any permissions and other users have all permissions.
+Exercise 8: Write a script that sets the permission to the file hello as follows: Owner: no permission at all Group: no permission at all Other users: all the permissions
 
-Exercise 9: chmod 753 hello Set permissions so owner has all permissions, group has read and execute permissions and others have write and execute permissions.
+Exercise 9: Write a script that sets the mode of the file hello to this:
 
-Exercise 10: chmod --reference=olleh hello Copies the mode of file olleh to file hello.
+Exercise 10: Write a script that sets the mode of the file hello the same as olleh’s mode.
 
-Exercise 11: chmod -R +X . Add execute permission to all subdirectories of the current directory for the everyone. Regular files should not be changed.
+Exercise 11: Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 
-Exercise 12: mkdir -m 751 dir_holberton Create a directory called dir_holberton with permissions 751 in the working directory. User has all read, write, and execute permissions. Group has read and execute permissions. Others have just execute permission.
+Exercise 12: Create a script that creates a directory called my_dir with permissions 751 in the working directory.
 
-Exercise 13: chgrp holberton hello Change gorup owner to holberton for the file hello
+Exercise 13: Write a script that changes the group owner to school for the file hello
 
-Exercise 14: chown betty:holberton * Change owner to betty and the group owner to holberton for all files and directories in current directory.
+Exercise 14: Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
-Exercise 15: chown -h betty:holberton _hello Changes the owner and group owner of file _hello to betty and holberton respectively.
+Exercise 15: Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
 
-Exercise 16: chown --from=guillaume betty hello Change owner of the file hello to betty only if it is currently owned by guillaume
+Exercise 16: Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
 
-Exercise 17: telnet towel.blinkenlights.nl Play the Star Wars IV episode in the terminal. This is a premade script provided online.
+Exercise 17: Write a script that will play the StarWars IV episode in the terminal.
 
-Exercise 18: Create a manual that looks as provided.
